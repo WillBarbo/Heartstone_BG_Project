@@ -1,0 +1,30 @@
+.gridHs {
+  height: 33.5em;
+  width: 55em;
+  padding: 0.5em;
+  background-color: #6f6767;
+}
+
+.pictureBob {
+  background-color: blue;
+  margin-bottom: 0.5em;
+}
+
+.gridBob {
+  margin-bottom: 0.5em;
+  background-color: red;
+}
+
+.gridUser {
+  margin-bottom: 0.5em;
+  background-color: black;
+}
+
+.pictureUser {
+  background-color: white;
+}
+
+.board {
+  height: 8em;
+  width: 55em;
+}
