@@ -1,10 +1,13 @@
 import './Card.css'
+import CardBack from './../../Imgs/cardBackHs.jpg'
 
 function Card() {
 
+
+
   return (
     <>
-      <img src="" alt="" />
+      <img class='card' src={CardBack} alt="" />
     </>
   )
 }
