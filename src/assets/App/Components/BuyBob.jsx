@@ -1,4 +1,5 @@
 import './BuyBob.css'
+import Card from './Card.jsx'
 
 function BuyBob() {
 
@@ -12,7 +13,9 @@ function BuyBob() {
         
         <div class='gridUser board'></div>
 
-        <div class='pictureUser board'></div>
+        <div class='pictureUser board'>
+          <Card />
+        </div>
       </div>
     </>
   )
